@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZFLocker</string>
+    <string name="title">ZFLocker(Beta)</string>
+	<string name="device_admin">开启DeviceAdmin</string>
+</resources>
